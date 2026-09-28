@@ -1,0 +1,39 @@
+💊 Pharmacy Management System
+
+Main features:
+
+Medicine Management
+
+Add medicine
+Update medicine
+Delete medicine
+Search medicine
+View all medicines
+
+Stock Management
+
+Medicine quantity
+Purchase price
+Selling price
+Expiry date
+Low-stock alert
+
+Customer Management
+
+Customer name
+Mobile number
+Address
+
+Billing
+
+Select medicine
+Enter quantity
+Calculate total
+Generate bill
+
+Reports
+
+Available medicines
+Expired medicines
+Low-stock medicines
+Sales report
